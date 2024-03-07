@@ -1,1 +1,25 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",0 - TBS INFO
+http://stream.zeno.fm/qig2iqwqnsmuv
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS Radio
+http://stream.laut.fm/tbs2003
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/c923ef8b-d1ee-4f5a-8dc1-ec94992001ab/Antenne-Bayern-logo.png",3 - ANTENNE
+https://stream.antenne.de/antenne/stream/mp3
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",4 - ANTENNEITM
+https://stream.antenne.de/in-the-mix/stream/mp3
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/f/fd/Deutschlandfunk.svg",5 - DLF
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/5/53/BBC_Radio_4.svg",6 - BBC RADIO4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/w/File:A_News.png",7 - A NEWS
+https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
+#EXTINF:-1 tvg-logo="",8 - VIVA RU
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/3/3b/Deluxe_Music.svg",9 - DLX MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/e/e6/Tagesschau24.svg",14 - TGS 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/03/France_24.svg",17 - FRANCE24FR
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/c/c7/Sky_News.svg",18 - SKY NEWS I
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
