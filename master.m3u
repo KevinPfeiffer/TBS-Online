@@ -13,8 +13,8 @@ https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/8/80/A_News.png",7 - A NEWS
 https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/53/Viva_2009.png",8 - VIVA RU
-https://hls.goodgame.ru/manifest/180805_master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
