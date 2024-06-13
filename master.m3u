@@ -7,10 +7,8 @@ http://stream.laut.fm/tbs2003
 https://stream.antenne.de/antenne/stream/mp3
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",4 - ANTENNEITM
 https://stream.antenne.de/in-the-mix/stream/mp3
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/f/fd/Deutschlandfunk.svg",5 - DLF
-https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/5/53/BBC_Radio_4.svg",6 - BBC RADIO4
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Toggo_Radio_Logo_2020.svg",5 - TOGGO FM
+https://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/8/80/A_News.png",7 - A NEWS
 https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
