@@ -21,13 +21,13 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/03/France_24.svg",18 - FRANCE24EN
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/c/c7/Sky_News.svg",19 - SKY NEWS I
-https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/c/ce/FailArmy_%28SamsungTV%2B%29.png",20 - FAILARMY
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20240521T001307SQUARE.png",19 - CLARITYUHD
+https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504702A_20240520T215836SQUARE.png",20 - FAILARMY
 https://jmp2.uk/SamsungTVPlus/USAJ3504702A.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/f/f6/The_Pet_Collective_%28SamsungTV%2B%29.png",21 - PETCOLLECT
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png",21 - PETCOLLECT
 https://jmp2.uk/SamsungTVPlus/USAJ3504704A.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/1/18/People_Are_Awesome_%28SamsungTV%2B%29.png",22 - PPLRAWESOM
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400015BY_20240520T215924SQUARE.png",22 - PPLRAWESOM
 https://jmp2.uk/SamsungTVPlus/USAJ3400015BY.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
@@ -39,7 +39,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/0f/Deluxe_Flashback.svg",27 - DLX FLASHB
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/c/c9/WeatherSpy_%28SamsungTV%2B%29.png",29 - WEATHERSPY
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20240520T214723SQUARE.png",29 - WEATHERSPY
 https://jmp2.uk/SamsungTVPlus/USAJ3400014LK.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png",32 - ATHOME
+https://jmp2.uk/SamsungTVPlus/USBD25000138Y.m3u8
