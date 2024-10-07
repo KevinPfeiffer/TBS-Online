@@ -6,11 +6,11 @@ The official GitHub site from TBS Online
 ### Requirements
 To get the channel list from TBS Online, you need these following stuff:
 * Internet connection
-* IPTV Player (with Radio stations working), like VLC Media Player - IPTV Players like IPTV Smarters Pro, XCIPTV etc. are also compatible for TBS Online, but you need to know that radio stations won't work on these Players. That's why it's better to get an IPTV Player that also supports radio stations. - My top recommendation is iMPlayer Mobile (Android)/iMPlayer TV IPTV Player (Android TV)/VLC Media Player (Windows/Linux/macOS/iOS/iPad OS/Apple TV)
+* IPTV Player (with Radio stations working), like VLC Media Player - IPTV Players like IPTV Smarters Pro, XCIPTV etc. are also compatible for TBS Online, but you need to know that radio stations won't work on these Players. That's why it's better to get an IPTV Player that also supports radio stations. - My top recommendation is Televizo (Android)/Tivimate Premium (Android TV)/VLC Media Player (Windows/Linux/macOS/iOS/iPad OS/Apple TV)
 * TBS Online .m3u-Link
 
 ### Step 1: Copy link
-First of all, you need a compatible software. Most of the devices today are compatible for TBS Online. Then you need an IPTV Player (I as an example have iMPlayer Mobile for my Android phone and VLC Media Player on my Windows PC), or you can go to https://iptvnator.vercel.app/ and enjoy TBS Online without install any IPTV Player. Now just follow this step:
+First of all, you need a compatible software. Most of the devices today are compatible for TBS Online. Then you need an IPTV Player (I as an example have Televizo for my Android phone and VLC Media Player on my Windows PC), or you can go to https://iptvnator.vercel.app/ and enjoy TBS Online without install any IPTV Player. Now just follow this step:
 * Go to master.m3u
 * Go to the button on the right with the word Raw on it
 * Now click on the URL and copy it
