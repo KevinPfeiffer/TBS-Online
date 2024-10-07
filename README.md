@@ -10,7 +10,7 @@ To get the channel list from TBS Online, you need these following stuff:
 * TBS Online .m3u-Link
 
 ### Step 1: Copy link
-First of all, how the f*** did you get to my Github... No, I'm just kidding. First of all, you need a compatible software. Most of the devices today are compatible for TBS Online. Then you need an IPTV Player (I as an example have iMPlayer Mobile for my Android phone and VLC Media Player on my Windows PC), or you can go to https://iptvnator.vercel.app/ and enjoy TBS Online without install any IPTV Player. Now just follow this step:
+First of all, you need a compatible software. Most of the devices today are compatible for TBS Online. Then you need an IPTV Player (I as an example have iMPlayer Mobile for my Android phone and VLC Media Player on my Windows PC), or you can go to https://iptvnator.vercel.app/ and enjoy TBS Online without install any IPTV Player. Now just follow this step:
 * Go to master.m3u
 * Go to the button on the right with the word Raw on it
 * Now click on the URL and copy it
