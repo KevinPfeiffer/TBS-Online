@@ -15,12 +15,16 @@ https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/41/KBS_World_2009.png",11 - KBSWORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/03/France_24.svg",17 - FRANCE24FR
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/03/France_24.svg",18 - FRANCE24EN
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",19 - DW-EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504702A_20240520T215836SQUARE.png",20 - FAILARMY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png",21 - PETCOLLECT
@@ -29,6 +33,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/d/da/Deluxe_Rap.svg",25 - DLX RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/6/66/Deluxe_Dance.svg",26 - DLX DANCE
