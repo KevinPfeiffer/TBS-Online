@@ -9,8 +9,6 @@ https://stream.antenne.de/antenne/stream/mp3
 https://stream.antenne.de/in-the-mix/stream/mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Toggo_Radio_Logo_2020.svg",5 - TOGGO FM
 https://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/8/80/A_News.png",7 - A NEWS
-https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
@@ -19,10 +17,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/03/France_24.svg",17 - FRANCE24FR
-https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/0/03/France_24.svg",18 - FRANCE24EN
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",19 - DW-EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
