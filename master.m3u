@@ -17,6 +17,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",17 - FRANCE24FR
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",18 - FRANCE24EN
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",19 - DW-EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
@@ -29,6 +33,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",45 - FRANCE24ES
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/0/0a/Capital.svg",47 - CAPITAL
 https://media-ssl.musicradio.com/CapitalUK
 #EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/c/c9/Heart_Radio.svg",48 - HEART
@@ -45,3 +53,13 @@ https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
 https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/LIyzF8JI8bZxHw==/86148340-7e4c-4182-95c3-0aa0f67bca46/CNIHEMAEOgUxLjEuMg==",55 - GAMESHOW
 https://apollo.production-public.tubi.io/live/game-show-central2.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/nTcLKe_1k1ehAw==/e69299fa-9552-42e8-8eb9-ff3cf8782c66/CNIHEMAEOgUxLjEuNg==",56 - ALW.FUNNY
+https://apollo.production-public.tubi.io/live/ac-afv.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/sp9Sj5wnwgZHGg==/1c721a2a-3e2f-4321-a14c-dab60d07361a/CNIHEMAEOgUxLjEuNg==",57 - LOL TV
+https://apollo.production-public.tubi.io/live/lol-network3.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/VV5XtyF0djORlQ==/2d14b7e9-5505-4776-94be-8412cbea1052/CNIHEMAEOgUxLjEuNg==",58 - LOLSTANDUP
+https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/eT2XktU_0VeHzQ==/5003cfb5-50b6-4ba8-8002-a8abfd543a0f/CNIHEMAEOgUxLjEuNg==",59 - DEALNODEAL
+https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/UK6QUPY1KNXeoQ==/d9ecdc5a-e693-4a86-bfc9-c8f090c9fcac/CNIHEMAEOgUxLjEuNg==",60 - JAMIE TV
+https://apollo.production-public.tubi.io/live/jamie-oliver2.m3u8
