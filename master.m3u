@@ -3,18 +3,10 @@
 http://stream.zeno.fm/qig2iqwqnsmuv
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
 http://stream.laut.fm/tbs2003
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/c923ef8b-d1ee-4f5a-8dc1-ec94992001ab/Antenne-Bayern-logo.png",3 - ANTENNE
-https://stream.antenne.de/antenne/stream/mp3
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",4 - ANTENNEITM
-https://stream.antenne.de/in-the-mix/stream/mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Toggo_Radio_Logo_2020.svg",5 - TOGGO FM
-https://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/41/KBS_World_2009.png",11 - KBSWORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",17 - FRANCE24FR
@@ -23,14 +15,20 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",19 - DW-EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/87/Failarmy_2015.png",20 - FAILARMY
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c9/The_Pet_Collective_2023.png",21 - PETCOLLECT
+https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/People_Are_Awesome_2021.png",22 - PPLRAWESOM
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/d/da/Deluxe_Rap.svg",25 - DLX RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/6/66/Deluxe_Dance.svg",26 - DLX DANCE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-logo="https://webchnl.web.app/assets/img/channelicons/nebula.png",40 - NEBULA
@@ -51,10 +49,8 @@ https://media-ssl.musicradio.com/Gold
 https://media-ssl.musicradio.com/SmoothUK
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/oO3H9lqSyFL-Xw==/6f579957-8645-4208-b812-cbcc5d8e3bf7/CNIHEMAEOgUxLjEuNQ==",53 - MRBEAST
 https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/f/ff/Euronews_2023.svg",54 - EURONEWSEN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/Euronews_2023_white.png",54 - EURONEWSEN
 https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/LIyzF8JI8bZxHw==/86148340-7e4c-4182-95c3-0aa0f67bca46/CNIHEMAEOgUxLjEuMg==",55 - GAMESHOW
-https://apollo.production-public.tubi.io/live/game-show-central2.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/nTcLKe_1k1ehAw==/e69299fa-9552-42e8-8eb9-ff3cf8782c66/CNIHEMAEOgUxLjEuNg==",56 - ALW.FUNNY
 https://apollo.production-public.tubi.io/live/ac-afv.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/sp9Sj5wnwgZHGg==/1c721a2a-3e2f-4321-a14c-dab60d07361a/CNIHEMAEOgUxLjEuNg==",57 - LOL TV
@@ -63,5 +59,9 @@ https://apollo.production-public.tubi.io/live/lol-network3.m3u8
 https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/eT2XktU_0VeHzQ==/5003cfb5-50b6-4ba8-8002-a8abfd543a0f/CNIHEMAEOgUxLjEuNg==",59 - DEALNODEAL
 https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/UK6QUPY1KNXeoQ==/d9ecdc5a-e693-4a86-bfc9-c8f090c9fcac/CNIHEMAEOgUxLjEuNg==",60 - JAMIE TV
-https://apollo.production-public.tubi.io/live/jamie-oliver2.m3u8
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/c923ef8b-d1ee-4f5a-8dc1-ec94992001ab/Antenne-Bayern-logo.png",61 - ANTENNE
+https://stream.antenne.de/antenne/stream/mp3
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",62 - ANTENNEITM
+https://stream.antenne.de/in-the-mix/stream/mp3
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/aca3a6e3-f6a7-413c-ac1c-ca4dc63dfe1e/toggoradio.png",63 - TOGGO FM
+https://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152
