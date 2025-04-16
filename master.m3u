@@ -1,67 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",0 - TBS INFO
+#EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",0 - TBS INFO
 http://stream.zeno.fm/qig2iqwqnsmuv
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
 http://stream.laut.fm/tbs2003
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",17 - FRANCE24FR
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",17 - FRANCE24FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",18 - FRANCE24EN
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",18 - FRANCE24EN
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",19 - DW-EN
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",19 - DW-EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/87/Failarmy_2015.png",20 - FAILARMY
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/87/Failarmy_2015.png",20 - FAILARMY
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c9/The_Pet_Collective_2023.png",21 - PETCOLLECT
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c9/The_Pet_Collective_2023.png",21 - PETCOLLECT
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/People_Are_Awesome_2021.png",22 - PPLRAWESOM
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/People_Are_Awesome_2021.png",22 - PPLRAWESOM
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
+#EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/d/da/Deluxe_Rap.svg",25 - DLX RAP
+#EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/d/da/Deluxe_Rap.svg",25 - DLX RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
+#EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-logo="https://webchnl.web.app/assets/img/channelicons/nebula.png",40 - NEBULA
+#EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/animania.png",39 - ANIMANIA
+https://chnl.orbitmedia.live/memfs/e04359ae-483c-4e36-82c9-1383190fb810.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/nebula.png",40 - NEBULA
 https://chnl.orbitmedia.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",45 - FRANCE24ES
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",45 - FRANCE24ES
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/0/0a/Capital.svg",47 - CAPITAL
-https://media-ssl.musicradio.com/CapitalUK
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/c/c9/Heart_Radio.svg",48 - HEART
-https://media-ssl.musicradio.com/HeartUK
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/2/21/Radio_X.png",49 - RADIOX
-https://media-ssl.musicradio.com/RadioXUK
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/3/3c/Gold_Radio.svg",50 - GOLDUK
-https://media-ssl.musicradio.com/Gold
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/tbsvisionwiki/e/e7/Smooth_Radio.svg",51 - SMOOTH
-https://media-ssl.musicradio.com/SmoothUK
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/oO3H9lqSyFL-Xw==/6f579957-8645-4208-b812-cbcc5d8e3bf7/CNIHEMAEOgUxLjEuNQ==",53 - MRBEAST
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radio.de/300/80s80s.jpeg?version=effecbae12b20628245a7475ef199e91",47 - 80S80S
+https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radio.de/300/sunshine-live.png?version=bb37d9068a4290755f67529338c0a76f",48 - SUNSHINE
+https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
+#EXTINF:-1 group-title="TV" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/thumbh_20241205_181755_270.jpg",49 - GUSTOTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/thumbh_20210113_005834_270.jpg",50 - AWEPLUS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/oO3H9lqSyFL-Xw==/6f579957-8645-4208-b812-cbcc5d8e3bf7/CNIHEMAEOgUxLjEuNQ==",53 - MRBEAST
 https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/Euronews_2023_white.png",54 - EURONEWSEN
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/Euronews_2023_white.png",54 - EURONEWSEN
 https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/nTcLKe_1k1ehAw==/e69299fa-9552-42e8-8eb9-ff3cf8782c66/CNIHEMAEOgUxLjEuNg==",56 - ALW.FUNNY
+#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/nTcLKe_1k1ehAw==/e69299fa-9552-42e8-8eb9-ff3cf8782c66/CNIHEMAEOgUxLjEuNg==",56 - ALW.FUNNY
 https://apollo.production-public.tubi.io/live/ac-afv.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/sp9Sj5wnwgZHGg==/1c721a2a-3e2f-4321-a14c-dab60d07361a/CNIHEMAEOgUxLjEuNg==",57 - LOL TV
+#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/sp9Sj5wnwgZHGg==/1c721a2a-3e2f-4321-a14c-dab60d07361a/CNIHEMAEOgUxLjEuNg==",57 - LOL TV
 https://apollo.production-public.tubi.io/live/lol-network3.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/VV5XtyF0djORlQ==/2d14b7e9-5505-4776-94be-8412cbea1052/CNIHEMAEOgUxLjEuNg==",58 - LOLSTANDUP
+#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/VV5XtyF0djORlQ==/2d14b7e9-5505-4776-94be-8412cbea1052/CNIHEMAEOgUxLjEuNg==",58 - LOLSTANDUP
 https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/eT2XktU_0VeHzQ==/5003cfb5-50b6-4ba8-8002-a8abfd543a0f/CNIHEMAEOgUxLjEuNg==",59 - DEALNODEAL
+#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/eT2XktU_0VeHzQ==/5003cfb5-50b6-4ba8-8002-a8abfd543a0f/CNIHEMAEOgUxLjEuNg==",59 - DEALNODEAL
 https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/c923ef8b-d1ee-4f5a-8dc1-ec94992001ab/Antenne-Bayern-logo.png",61 - ANTENNE
+#EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/c923ef8b-d1ee-4f5a-8dc1-ec94992001ab/Antenne-Bayern-logo.png",61 - ANTENNE
 https://stream.antenne.de/antenne/stream/mp3
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",62 - ANTENNEITM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",62 - ANTENNEITM
 https://stream.antenne.de/in-the-mix/stream/mp3
-#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/aca3a6e3-f6a7-413c-ac1c-ca4dc63dfe1e/toggoradio.png",63 - TOGGO FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/aca3a6e3-f6a7-413c-ac1c-ca4dc63dfe1e/toggoradio.png",63 - TOGGO FM
 https://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/0d3d891d-32f2-4c53-95ee-8d1e35bdd126.png",64 - CAPITAL
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/49b9e8cb-15bf-4bf2-8c28-a4850cc6b0f3.png",65 - HEART
+https://media-ssl.musicradio.com/HeartUK
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/2e05011a-7517-435e-bac7-0f1cc979ee99.png",66 - RADIOX
+https://media-ssl.musicradio.com/RadioXUK
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/ee6e77de-c3a3-462e-939c-d106dea2c5ea.png",67 - GOLDUK
+https://media-ssl.musicradio.com/Gold
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/61a4b6da-0e8d-4b2f-b6e4-ad7e150a9ab0.png",68 - SMOOTH
+https://media-ssl.musicradio.com/SmoothUK
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/5160d58f-efb3-432b-bcfb-bd2d53a8cb26.png",69 - CAPITALDNC
+https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/a659dc4a-36af-4b5c-9719-d98d55688b49.png",70 - HEART00S
+https://media-ssl.musicradio.com/Heart00s
