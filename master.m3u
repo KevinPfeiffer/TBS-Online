@@ -32,9 +32,9 @@ https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/animania.png",39 - ANIMANIA
-https://chnl.orbitmedia.live/memfs/e04359ae-483c-4e36-82c9-1383190fb810.m3u8
+https://useast-1.webchnl.live/memfs/e04359ae-483c-4e36-82c9-1383190fb810.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png",40 - SPARK
-https://chnl.orbitmedia.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
+https://useast-1.webchnl.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",45 - FRANCE24ES
