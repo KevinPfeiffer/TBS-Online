@@ -42,7 +42,7 @@ https://jmp2.uk/sam-USBD3300004RH.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png",38 - BBC KIDS
 https://jmp2.uk/sam-US800003JM.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png",40 - SPARK
-https://useast-1.webchnl.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
+https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",45 - FRANCE24ES
