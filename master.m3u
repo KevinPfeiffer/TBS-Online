@@ -21,12 +21,8 @@ https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/People_Are_Awesome_2021.png",22 - PPLRAWESOM
 https://jukin-peopleareawesome-2-no.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/4/48/Schlager_Deluxe.svg",23 - SCHL DLX
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/d/da/Deluxe_Rap.svg",25 - DLX RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",26 - VNTG DANCE
 https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
@@ -34,10 +30,10 @@ https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/eel_ch.png",35 - EELTV
-https://delta.webchnl.live/memfs/1300c062-d4cd-402c-baf6-084dc5192fac.m3u8
+https://rhine.webchnl.live/memfs/ee44b078-5b16-4484-b054-76079dc2d45c.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",36 - TOONBOX
 https://rhine.webchnl.live/memfs/f4a9ef8b-521a-432e-87bf-c2bcebe9405a.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",37 - VTNG MUSIC
+#EXTINF:-1 group-title="TV" tvg-logo="",37 - VNTG MUSIC
 https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png",40 - SPARK
 https://rhine.webchnl.live/memfs/daad2183-472a-4a6f-ac37-a2934dfccac4.m3u8
@@ -49,22 +45,6 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.radio.de/300/sunshine-live.png?version=bb37d9068a4290755f67529338c0a76f",48 - SUNSHINE
 https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
-#EXTINF:-1 group-title="TV" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/thumbh_20241205_181755_270.jpg",49 - GUSTOTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/thumbh_20210113_005834_270.jpg",50 - AWEPLUS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/oO3H9lqSyFL-Xw==/6f579957-8645-4208-b812-cbcc5d8e3bf7/CNIHEMAEOgUxLjEuNQ==",53 - MRBEAST
-https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/Euronews_2023_white.png",54 - EURONEWSEN
-https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/nTcLKe_1k1ehAw==/e69299fa-9552-42e8-8eb9-ff3cf8782c66/CNIHEMAEOgUxLjEuNg==",56 - ALW.FUNNY
-https://apollo.production-public.tubi.io/live/ac-afv.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/sp9Sj5wnwgZHGg==/1c721a2a-3e2f-4321-a14c-dab60d07361a/CNIHEMAEOgUxLjEuNg==",57 - LOL TV
-https://apollo.production-public.tubi.io/live/lol-network3.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/VV5XtyF0djORlQ==/2d14b7e9-5505-4776-94be-8412cbea1052/CNIHEMAEOgUxLjEuNg==",58 - LOLSTANDUP
-https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://canvas-lb.tubitv.com/opts/eT2XktU_0VeHzQ==/5003cfb5-50b6-4ba8-8002-a8abfd543a0f/CNIHEMAEOgUxLjEuNg==",59 - DEALNODEAL
-https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/c923ef8b-d1ee-4f5a-8dc1-ec94992001ab/Antenne-Bayern-logo.png",61 - ANTENNE
 https://stream.antenne.de/antenne/stream/mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/853c305a-367d-4ec4-93af-8311f7cbaabe/Antenne-Bayern-In-the-mix-2010s-or-2020s.png",62 - ANTENNEITM
