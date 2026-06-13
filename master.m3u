@@ -24,15 +24,23 @@ https://jukin-peopleareawesome-2-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",26 - VNTG DANCE
-https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+https://cdn-fi.lulzy.eu/vdance_stream/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",27 - VNTG CLSC
+https://cdn-fi.lulzy.eu/vclassic_stream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",34 - TOONDISNEY
+https://mci01.nive.live/29/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",35 - EELTV
+https://mci01.nive.live/28/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",37 - VNTG MUSIC
-https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",40 - SPARK
-https://mci01.nive.live/11/index.m3u8
+https://cdn-fi.lulzy.eu/vmusic_stream/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",38 - VNTG ROCK
+https://cdn-fi.lulzy.eu/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",40 - WINDOWTV
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",41 - WHIPLASH
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",42 - WHIPLASHII
