@@ -39,6 +39,8 @@ https://mci01.nive.live/28/index.m3u8
 https://cdn-fi.lulzy.eu/vmusic_stream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",38 - VNTG ROCK
 https://cdn-fi.lulzy.eu/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",39 - ATLAS
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",40 - WINDOWTV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",41 - WHIPLASH
@@ -87,3 +89,5 @@ https://media-ssl.musicradio.com/SmoothUK
 https://media-ssl.musicradio.com/CapitalDance
 #EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/a659dc4a-36af-4b5c-9719-d98d55688b49.png",70 - HEART00S
 https://media-ssl.musicradio.com/Heart00s
+#EXTINF:-1 group-title="TV" tvg-logo="",73 - U&TBS-TEST
+https://live20.bozztv.com/giatvplayout7/giatv-210239/playlist.m3u8
