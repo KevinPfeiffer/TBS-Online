@@ -3,8 +3,8 @@
 http://stream.zeno.fm/qig2iqwqnsmuv
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
 http://stream.laut.fm/tbs2003
-#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",8 - RTL102.5TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",8 - WHIPLASH
+https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",14 - TGS 24
@@ -43,8 +43,8 @@ https://cdn-fi.lulzy.eu/vrock_stream/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",40 - WINDOWTV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",41 - WHIPLASH
-https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",41 - BIWI
+https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",42 - WHIPLASHII
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",43 - WLCINEMA
@@ -89,5 +89,13 @@ https://media-ssl.musicradio.com/SmoothUK
 https://media-ssl.musicradio.com/CapitalDance
 #EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/a659dc4a-36af-4b5c-9719-d98d55688b49.png",70 - HEART00S
 https://media-ssl.musicradio.com/Heart00s
-#EXTINF:-1 group-title="TV" tvg-logo="",73 - U&TBS-TEST
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3kPtiPcWemoo7jkkhVNi7nrBaJr7J2N8X8FK6BxHdw&s",75 - RTL102.5TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",76 - FRECCIATV
+https://streamcdnf27-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",77 - DW-ES
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",78 - DW-RU
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",200 - U&TBS-TEST
 https://live20.bozztv.com/giatvplayout7/giatv-210239/playlist.m3u8
