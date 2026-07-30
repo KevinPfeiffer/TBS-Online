@@ -1,9 +1,9 @@
-#EXTM3U
+#EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",0 - TBS INFO
 http://stream.zeno.fm/qig2iqwqnsmuv
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
 http://stream.laut.fm/tbs2003
-#EXTINF:-1 group-title="TV" tvg-logo="",8 - WHIPLASH
+#EXTINF:-1 group-title="TV" tvg-id="C1.1.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png",8 - WHIPLASH
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -24,30 +24,30 @@ https://jukin-peopleareawesome-2-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",26 - VNTG DANCE
-https://cdn-fi.lulzy.eu/vdance_stream/index.m3u8
+https://cdn-fi3.lulzy.eu/vdance_stream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",27 - VNTG CLSC
-https://cdn-fi.lulzy.eu/vclassic_stream/index.m3u8
+https://cdn-fi3.lulzy.eu/vclassic_stream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://www.tvchannellists.com/wiki/images/2/27/SWR3.svg",31 - SWR3 VR
+#EXTINF:-1 group-title="TV" tvg-logo="https://api.ardmediathek.de/image-service/images/urn%3Aard%3Aimage%3Ab28c3ee884d87574?ch=b630bf24fb394da2",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",34 - TOONDISNEY
 https://mci01.nive.live/29/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",35 - EELTV
 https://mci01.nive.live/28/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",37 - VNTG MUSIC
-https://cdn-fi.lulzy.eu/vmusic_stream/index.m3u8
+https://cdn-fi3.lulzy.eu/vmusic_stream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",38 - VNTG ROCK
-https://cdn-fi.lulzy.eu/vrock_stream/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",39 - ATLAS
+https://cdn-fi3.lulzy.eu/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png",39 - ATLAS
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",40 - WINDOWTV
+#EXTINF:-1 group-title="TV" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png",40 - WINDOWTV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",41 - BIWI
+#EXTINF:-1 group-title="TV" tvg-id="C2.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png",41 - BIWI
 https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",42 - WHIPLASHII
+#EXTINF:-1 group-title="TV" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png",42 - WHIPLASHII
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",43 - WLCINEMA
+#EXTINF:-1 group-title="TV" tvg-id="C3.1.148.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png",43 - WLCINEMA
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
@@ -97,5 +97,13 @@ https://streamcdnf27-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0t
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",78 - DW-RU
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="",100 - ROCK-ANT
+https://s4-webradio.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="",101 - OLDIE-ANT
+https://s6-webradio.oldie-antenne.de/oldie-antenne/stream/mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="",102 - CHILL-ANT
+https://s5-webradio.chillout.de/chillout/stream/mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://herald.musicradio.com/media/da3108af-a6de-4a19-9567-aa06d132f772.png",103 - HEART90S
+https://media-ssl.musicradio.com/Heart90s
 #EXTINF:-1 group-title="TV" tvg-logo="",200 - U&TBS-TEST
 https://live20.bozztv.com/giatvplayout7/giatv-210239/playlist.m3u8
