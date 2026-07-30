@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://whiplash.cc/scheds/schedule.xml"
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",0 - TBS INFO
 http://stream.zeno.fm/qig2iqwqnsmuv
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
 http://stream.laut.fm/tbs2003
-#EXTINF:-1 group-title="TV" tvg-id="C1.1.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png",8 - WHIPLASH
+#EXTINF:-1 group-title="TV" tvg-name="Whiplash" tvg-id="C1.1.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png",8 - WHIPLASH
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8c/Deluxe_Music_2019.png",9 - DLX MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -39,15 +39,15 @@ https://mci01.nive.live/28/index.m3u8
 https://cdn-fi3.lulzy.eu/vmusic_stream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",38 - VNTG ROCK
 https://cdn-fi3.lulzy.eu/vrock_stream/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png",39 - ATLAS
+#EXTINF:-1 group-title="TV" tvg-name="atlas" tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png",39 - ATLAS
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png",40 - WINDOWTV
+#EXTINF:-1 group-title="TV" tvg-name="Window TV" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png",40 - WINDOWTV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="C2.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png",41 - BIWI
+#EXTINF:-1 group-title="TV" tvg-name="biwi" tvg-id="C2.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png",41 - BIWI
 https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png",42 - WHIPLASHII
+#EXTINF:-1 group-title="TV" tvg-name="Whiplash 2" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png",42 - WHIPLASHII
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="C3.1.148.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png",43 - WLCINEMA
+#EXTINF:-1 group-title="TV" tvg-name="Whiplash Cinema" tvg-id="C3.1.148.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png",43 - WLCINEMA
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/30/France_24_2013.png",44 - FRANCE24AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
