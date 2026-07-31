@@ -43,7 +43,7 @@ https://cdn-fi3.lulzy.eu/vrock_stream/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Window TV" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png",40 - WINDOWTV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="biwi" tvg-id="C2.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png",41 - BIWI
+#EXTINF:-1 group-title="TV" tvg-name="biwi" tvg-id="C6.1.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png",41 - BIWI
 https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Whiplash 2" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png",42 - WHIPLASHII
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
