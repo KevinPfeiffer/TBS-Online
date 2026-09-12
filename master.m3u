@@ -26,21 +26,21 @@ https://toy.vcdn.fyi/dijit/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Deutsche_Welle_2012_white.png",24 - DW-AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",26 - VNTG DANCE
-https://cdn-fi3.lulzy.eu/vdance_stream/index.m3u8
+https://cdn-fi1.lulzy.eu/vdance_1080/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",27 - VNTG CLSC
-https://cdn-fi3.lulzy.eu/vclassic_stream/index.m3u8
+https://cdn-fi1.lulzy.eu/vclassic_1080/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/Weather_Spy.png",29 - WEATHERSPY
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://api.ardmediathek.de/image-service/images/urn%3Aard%3Aimage%3Ab28c3ee884d87574?ch=b630bf24fb394da2",31 - SWR3 VR
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",34 - TOONDISNEY
+#EXTINF:-1 group-title="TV" tvg-logo="https://cdn.bongo.stream/channel-assets/fizz/icon.png",34 - FIZZTV
 https://toy.vcdn.fyi/fizz/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",35 - EELTV
+#EXTINF:-1 group-title="TV" tvg-logo="https://cdn.bongo.stream/channel-assets/eel_ch/icon.png",35 - EELTV
 https://toy.vcdn.fyi/eel_ch/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",37 - VNTG MUSIC
-https://cdn-fi3.lulzy.eu/vmusic_stream/index.m3u8
+https://cdn-fi1.lulzy.eu/vmusic_1080/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",38 - VNTG ROCK
-https://cdn-fi3.lulzy.eu/vrock_stream/index.m3u8
+https://cdn-fi1.lulzy.eu/vrock_1080/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="atlas" tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png",39 - ATLAS
 https://toy.vcdn.fyi/whiplash-atlas/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Window TV" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png",40 - WINDOWTV
@@ -109,5 +109,5 @@ https://s5-webradio.chillout.de/chillout/stream/mp3
 https://media-ssl.musicradio.com/Heart90s
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/a7/BBC_Radio_4_2022.png",104 - BBCRADIO4
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_fourfm.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="",200 - U&TBS
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/24/U%26TBS_2024.png",200 - U&TBS
 https://live20.bozztv.com/giatvplayout7/giatv-210239/playlist.m3u8
