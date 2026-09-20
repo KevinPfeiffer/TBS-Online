@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://whiplash.cc/scheds/schedule.xml"
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",0 - TBS INFO
 http://stream.zeno.fm/qig2iqwqnsmuv
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/TBS_Now_2025.png",3 - TBS NOW
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/TBS_Now_2025.png",1 - TBS NOW
 https://183.bozztv.com/giatv/giatv-live_513020923_67Xwbnqa2HcEw27/live_513020923_67Xwbnqa2HcEw27/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",2 - TBS FM
 http://stream.laut.fm/tbs2003
